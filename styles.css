@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: darkblue;
+    color: brown;
+    padding: 20px;
+}
+
+nav ul {list-style-type: none;
+padding: 0%;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: rgb(202, 196, 255);
+    text-decoration: none;
+}
+
+main {padding: 20px;
+}
+
+footer {
+    background-color: chartreuse;
+    color: rgb(47, 0, 255);
+    padding: 10px;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+article{
+    border: 1px solid;
+    padding: 20px;
+    margin-bottom: 20px;
+}
